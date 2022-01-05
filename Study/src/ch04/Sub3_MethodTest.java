@@ -21,9 +21,9 @@ public class Sub3_MethodTest {
 	System.out.println("r2 :"+r2);
 	System.out.println("r3 :"+r3);
 	
-	    int s1 = sum(1,10);
-	    int s2 = sum(1,100);
-		int s3 = sum(1,1000);
+	int s1 = sum(1,10);
+	int s2 = sum(1,100);
+	int s3 = sum(1,1000);
 		
 	}//main method block end
 	

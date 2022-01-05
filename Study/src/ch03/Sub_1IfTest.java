@@ -14,18 +14,17 @@ public static void main(String[] arg) {
 		int num1 = 1;
 		int num2 = 2;
 		
-		int (num1 < num2) 
-}
-}
-			// 조건이 참일때 실행
+		int num3 = num1 > num2
+		// 조건이 참일때 실행
 			
 		if(num1 > 1)
 			
 	    if(num1 > 0) {
-	    	if(num2 >1) 
+	    	if(num2 >1); 
 	    		
 	    	}
 	    }
+
 		if(num1 > 0 && num2 > 1) {
 			
 		}
