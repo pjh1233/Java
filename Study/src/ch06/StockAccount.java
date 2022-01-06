@@ -1,4 +1,5 @@
-package ch06;
+package ch06; 
+//못따라감
 
 public class Account {
 	                  

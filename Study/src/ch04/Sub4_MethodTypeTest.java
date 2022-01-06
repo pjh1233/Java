@@ -32,6 +32,11 @@ public class Sub4_MethodTypeTest {
 			
 	}
 	
+	private static String type() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 	// type1 : 매개변수o 리턴값o
 	public static double type1(double x) {
 		

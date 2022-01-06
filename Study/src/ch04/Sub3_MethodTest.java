@@ -10,6 +10,9 @@ package ch04;
 */
 
 public class Sub3_MethodTest {
+	private static int start;
+	private static int end;
+
 	public static void main(String[] args) {
 		
 	//함수호출
@@ -28,27 +31,15 @@ public class Sub3_MethodTest {
 	}//main method block end
 	
 	//함수 정의
+	private static int sum(int i, int j) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 	public static int f(int x) {
 		
 		int y = 2 * x + 3;
 		return y;
-		
-		public static int sum(int start, int end) {
-			
-			int total = 0;
-			
-			for(int k=start ; k<=end ; k++) {
-				total += k;
-			}
-			
-			return total;
-			
-			
-			
-			return 0;
-			
-			
-		}
 		}
 	
 	

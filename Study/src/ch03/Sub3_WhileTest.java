@@ -40,11 +40,9 @@ public class Sub3_WhileTest {
 			if(num % 5 == 0 && num % 7 == 0 ) {
 				break; //반복문탈출
 				
-				num++;
-				
 			}
 			
-			System.out.println("5와 7의 최소공배수 :",+num);
+			System.out.println(+num);
 			
 			//continue
 			int tot = 0;

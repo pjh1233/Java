@@ -9,12 +9,13 @@ import java.util.Scanner;
  */
 
 public class Sub_1IfTest {
-public static void main(String[] arg) {
+private static boolean num3;
+ {
 		// if문           제어문-조건문 반복문
 		int num1 = 1;
 		int num2 = 2;
 		
-		int num3 = num1 > num2
+		num3 = num1 > num2
 		// 조건이 참일때 실행
 			
 		if(num1 > 1)
@@ -23,13 +24,13 @@ public static void main(String[] arg) {
 	    	if(num2 >1); 
 	    		
 	    	}
-	    }
 
 		if(num1 > 0 && num2 > 1) {
 			
 		}
 		// if ~ else
-		int num3 = 3, num4 = 4;
+		static  num3 = 3;
+		int num4 = 4;
 		
 		if(num3 > 4) {System.out.println("num3은 num4보다 크다");
 			//조건이 참일때

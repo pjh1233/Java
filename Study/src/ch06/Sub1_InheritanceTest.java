@@ -1,5 +1,5 @@
 package ch06;
-
+//못따라감
 /*
  * 날짜 : 2022 01 05
  * 이름 : 박준혁
@@ -7,9 +7,9 @@ package ch06;
  */
 
 public class Sub1_InheritanceTest {
-	public static void main(String[] args) {
+	public static <StockAccount> void main(String[] args) {
 		
-		StockAccount kb = new StockAccount("KB증권", "101-11-1012", "홍길동", 10000, "삼성전자", "10")
+	
 	}
 	
 	
