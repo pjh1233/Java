@@ -4,7 +4,7 @@ package ch03;
  * 이름 : 박준혁
  * 내용 : 자바 반복문 for 실습하기 교재 p90
  * */
-public class Sub_2Fortest {
+public class Sub2_Fortest {
 	
 	public static void main(String[] args) {
 

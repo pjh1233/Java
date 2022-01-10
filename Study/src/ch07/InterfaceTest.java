@@ -11,7 +11,7 @@ public class InterfaceTest{
 		
 		//인터페이스로 공통 클래스 구조 설계
 		RemoteControl lg = new RemoteLg();
-		RemoteControl samsung = new Samsung();
+		RemoteControl samsung = new RemoteSamsung();
 		
 		lg.powerOn();
 		lg.powerOff();
@@ -29,7 +29,7 @@ public class InterfaceTest{
 		
 		//인터페이스를 이용한 결합도 완화
 		Bulb bulb = new Bulb();
-		Socket socket = new Cable(bulb);
+		Socket socket = new Cable();
 		
 		socket.switchOn();
 		socket.switchOff();

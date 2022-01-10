@@ -32,7 +32,7 @@ public class Sub3_MethodTest {
 	
 	//함수 정의
 	private static int sum(int i, int j) {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 

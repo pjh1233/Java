@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 내용 : 자바 조건문 실습하기 교재 p79
  */
 
-public class Sub_1IfTest {
+public class Sub1_IfTest {
 private static boolean num3;
  {
 		// if문           제어문-조건문 반복문

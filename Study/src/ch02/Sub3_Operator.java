@@ -5,7 +5,7 @@ package ch02;
  * 이름 : 박준혁
  * 내용 : 자바 연산자 실습하기 교재 p52
  */
-public class Sub_3Operator {
+public class Sub3_Operator {
 
 
 	public static void main(String[] args) {

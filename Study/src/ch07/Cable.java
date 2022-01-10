@@ -4,9 +4,7 @@ public class Cable implements Socket{
 	
 	private Bulb bulb;
 	
-	public Cable(bulb) {
-		this.bulb = bulb;
-	}
+
 
 	@Override
 	public void switchOn() {
